@@ -775,3 +775,6 @@
 {"n":775,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east stair. Bess keeps the barrel for the start. 7 steps, direct on the left lane, open."}
 {"n":776,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east stair. direct left open. 8 steps. The barrel stays for the start."}
 {"n":777,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Ward gate. Nobody past the east stair. We start in 2 steps. Direct on the left lane, open."}
+{"n":778,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east stair. Matt keeps the crate for the start. 3 steps, direct on the left lane, open."}
+{"n":779,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east stair. direct left open. 4 steps. The crate stays for the start."}
+{"n":780,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Ward gate. Nobody past the east stair. We start in 5 steps. Direct on the left lane, open."}
