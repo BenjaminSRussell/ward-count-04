@@ -763,3 +763,6 @@
 {"n":763,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at the pier. Nobody past the south stair. We start in 4 steps. Direct on the left lane, open."}
 {"n":764,"kind":"place","name":"the pier south stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier south stair. Ivo keeps the awning for the start. 5 steps, direct on the left lane, open."}
 {"n":765,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south stair. direct left open. 6 steps. The awning stays for the start."}
+{"n":766,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at the pier. Nobody past the south stair. We start in 7 steps. Direct on the left lane, open."}
+{"n":767,"kind":"place","name":"the pier south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier south stair. Bess keeps the awning for the start. 8 steps, direct on the left lane, open."}
+{"n":768,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south stair. direct left open. 2 steps. The awning stays for the start."}
