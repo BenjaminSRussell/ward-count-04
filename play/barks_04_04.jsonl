@@ -40,3 +40,6 @@
 {"n":40,"kind":"place","name":"South stair west stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair west stair. Ivo keeps the badge door for the start. 7 steps, direct on the left lane, open."}
 {"n":41,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west stair. direct left open. 8 steps. The badge door stays for the start."}
 {"n":42,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at South stair. Nobody past the west stair. We start in 2 steps. Direct on the left lane, open."}
+{"n":43,"kind":"place","name":"South stair west stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair west stair. Bess keeps the badge door for the start. 3 steps, direct on the left lane, open."}
+{"n":44,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west stair. direct left open. 4 steps. The badge door stays for the start."}
+{"n":45,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at the pier. Nobody past the west stair. We start in 5 steps. Direct on the left lane, open."}
