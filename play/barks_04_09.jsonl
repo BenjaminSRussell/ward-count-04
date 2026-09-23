@@ -488,3 +488,6 @@
 {"n":488,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate south stair. Ivo keeps the shutter for the start. 2 steps, direct on the left lane, open."}
 {"n":489,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south stair. direct left open. 3 steps. The shutter stays for the start."}
 {"n":490,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Ward gate. Nobody past the south stair. We start in 4 steps. Direct on the left lane, open."}
+{"n":491,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate south stair. Bess keeps the shutter for the start. 5 steps, direct on the left lane, open."}
+{"n":492,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south stair. direct left open. 6 steps. The shutter stays for the start."}
+{"n":493,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Kessler alley. Nobody past the south stair. We start in 7 steps. Direct on the left lane, open."}
