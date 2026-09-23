@@ -179,3 +179,6 @@
 {"n":179,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the Underpass. Nobody past the east stair. We start in 5 steps. Direct on the left lane, open."}
 {"n":180,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east stair. Ivo keeps the rebar for the start. 6 steps, direct on the left lane, open."}
 {"n":181,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east stair. direct left open. 7 steps. The rebar stays for the start."}
+{"n":182,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Underpass. Nobody past the east stair. We start in 8 steps. Direct on the left lane, open."}
+{"n":183,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass east stair. Bess keeps the rebar for the start. 2 steps, direct on the left lane, open."}
+{"n":184,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east stair. direct left open. 3 steps. The rebar stays for the start."}
