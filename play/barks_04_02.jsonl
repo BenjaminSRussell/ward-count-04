@@ -276,3 +276,6 @@
 {"n":276,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west stair. Ivo keeps the plywood for the start. 7 steps, direct on the left lane, open."}
 {"n":277,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west stair. direct left open. 8 steps. The plywood stays for the start."}
 {"n":278,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Kessler alley. Nobody past the west stair. We start in 2 steps. Direct on the left lane, open."}
+{"n":279,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west stair. Bess keeps the plywood for the start. 3 steps, direct on the left lane, open."}
+{"n":280,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west stair. direct left open. 4 steps. The plywood stays for the start."}
+{"n":281,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the Lot. Nobody past the west stair. We start in 5 steps. Direct on the left lane, open."}
