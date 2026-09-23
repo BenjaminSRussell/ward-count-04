@@ -864,3 +864,6 @@
 {"n":864,"kind":"place","name":"South stair west stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair west stair. Ivo keeps the crate for the start. 7 steps, direct on the left lane, open."}
 {"n":865,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west stair. direct left open. 8 steps. The crate stays for the start."}
 {"n":866,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at South stair. Nobody past the west stair. We start in 2 steps. Direct on the left lane, open."}
+{"n":867,"kind":"place","name":"South stair west stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair west stair. Bess keeps the crate for the start. 3 steps, direct on the left lane, open."}
+{"n":868,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west stair. direct left open. 4 steps. The crate stays for the start."}
+{"n":869,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the pier. Nobody past the west stair. We start in 5 steps. Direct on the left lane, open."}
