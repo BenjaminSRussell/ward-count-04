@@ -598,3 +598,6 @@
 {"n":598,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south stair. direct left open. 8 steps. The hydrant stays for the start."}
 {"n":599,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Clinic roof. Nobody past the south stair. We start in 2 steps. Direct on the left lane, open."}
 {"n":600,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof south stair. Ivo keeps the hydrant for the start. 3 steps, direct on the left lane, open."}
+{"n":601,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south stair. direct left open. 4 steps. The hydrant stays for the start."}
+{"n":602,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the south stair. We start in 5 steps. Direct on the left lane, open."}
+{"n":603,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof south stair. Bess keeps the hydrant for the start. 6 steps, direct on the left lane, open."}
