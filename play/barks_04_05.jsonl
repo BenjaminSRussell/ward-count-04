@@ -783,3 +783,6 @@
 {"n":783,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east stair. Bess keeps the awning for the start. 7 steps, direct on the left lane, open."}
 {"n":784,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east stair. direct left open. 8 steps. The awning stays for the start."}
 {"n":785,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Ward gate. Nobody past the east stair. We start in 2 steps. Direct on the left lane, open."}
+{"n":786,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east stair. Matt keeps the drum for the start. 3 steps, direct on the left lane, open."}
+{"n":787,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east stair. direct left open. 4 steps. The drum stays for the start."}
+{"n":788,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Ward gate. Nobody past the east stair. We start in 5 steps. Direct on the left lane, open."}
