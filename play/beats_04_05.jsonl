@@ -386,3 +386,6 @@
 {"n":386,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at South stair. Nobody past the east stair. We start in 2 steps. Direct on the left lane, open."}
 {"n":387,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east stair. Bess keeps the rope for the start. 3 steps, direct on the left lane, open."}
 {"n":388,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east stair. direct left open. 4 steps. The rope stays for the start."}
+{"n":389,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at the pier. Nobody past the east stair. We start in 5 steps. Direct on the left lane, open."}
+{"n":390,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east stair. Matt keeps the rope for the start. 6 steps, direct on the left lane, open."}
+{"n":391,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east stair. direct left open. 7 steps. The rope stays for the start."}
