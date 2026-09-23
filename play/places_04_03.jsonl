@@ -792,3 +792,6 @@
 {"n":792,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west stair. direct left open. 4 steps. The drum stays for the start."}
 {"n":793,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the Lot. Nobody past the west stair. We start in 5 steps. Direct on the left lane, open."}
 {"n":794,"kind":"place","name":"the Lot west stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot west stair. Matt keeps the drum for the start. 6 steps, direct on the left lane, open."}
+{"n":795,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west stair. direct left open. 7 steps. The drum stays for the start."}
+{"n":796,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at the Lot. Nobody past the west stair. We start in 8 steps. Direct on the left lane, open."}
+{"n":797,"kind":"place","name":"the Lot west stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot west stair. Nia keeps the drum for the start. 2 steps, direct on the left lane, open."}
