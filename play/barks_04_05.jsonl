@@ -270,3 +270,6 @@
 {"n":270,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line east stair. Matt keeps the rebar for the start. 5 steps, direct on the left lane, open."}
 {"n":271,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east stair. direct left open. 6 steps. The rebar stays for the start."}
 {"n":272,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at High line. Nobody past the east stair. We start in 7 steps. Direct on the left lane, open."}
+{"n":273,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line east stair. Nia keeps the rebar for the start. 8 steps, direct on the left lane, open."}
+{"n":274,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east stair. direct left open. 2 steps. The rebar stays for the start."}
+{"n":275,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at High line. Nobody past the east stair. We start in 3 steps. Direct on the left lane, open."}
