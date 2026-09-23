@@ -468,3 +468,6 @@
 {"n":468,"kind":"place","name":"Kessler alley east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley east stair. Ivo keeps the shutter for the start. 7 steps, direct on the left lane, open."}
 {"n":469,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east stair. direct left open. 8 steps. The shutter stays for the start."}
 {"n":470,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Kessler alley. Nobody past the east stair. We start in 2 steps. Direct on the left lane, open."}
+{"n":471,"kind":"place","name":"Kessler alley east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east stair. Bess keeps the shutter for the start. 3 steps, direct on the left lane, open."}
+{"n":472,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east stair. direct left open. 4 steps. The shutter stays for the start."}
+{"n":473,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at the Lot. Nobody past the east stair. We start in 5 steps. Direct on the left lane, open."}
