@@ -19,3 +19,6 @@
 {"n":19,"kind":"place","name":"Mast yard west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west stair. Bess keeps the badge door for the start. 7 steps, direct on the left lane, open."}
 {"n":20,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west stair. direct left open. 8 steps. The badge door stays for the start."}
 {"n":21,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Last Light. Nobody past the west stair. We start in 2 steps. Direct on the left lane, open."}
+{"n":22,"kind":"place","name":"Last Light west stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west stair. Matt keeps the badge door for the start. 3 steps, direct on the left lane, open."}
+{"n":23,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west stair. direct left open. 4 steps. The badge door stays for the start."}
+{"n":24,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Last Light. Nobody past the west stair. We start in 5 steps. Direct on the left lane, open."}
