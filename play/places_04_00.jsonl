@@ -807,3 +807,6 @@
 {"n":807,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south gutter. direct left open. 8 steps. The crate stays for the start."}
 {"n":808,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at the Underpass. Nobody past the south gutter. We start in 2 steps. Direct on the left lane, open."}
 {"n":809,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass south gutter. Nia keeps the crate for the start. 3 steps, direct on the left lane, open."}
+{"n":810,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south gutter. direct left open. 4 steps. The crate stays for the start."}
+{"n":811,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at the Underpass. Nobody past the south gutter. We start in 5 steps. Direct on the left lane, open."}
+{"n":812,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass south gutter. Ivo keeps the crate for the start. 6 steps, direct on the left lane, open."}
