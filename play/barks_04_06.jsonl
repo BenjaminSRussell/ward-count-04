@@ -347,3 +347,6 @@
 {"n":347,"kind":"place","name":"Mall court north stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court north stair. Bess keeps the plywood for the start. 4 steps, direct on the left lane, open."}
 {"n":348,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north stair. direct left open. 5 steps. The plywood stays for the start."}
 {"n":349,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the Underpass. Nobody past the north stair. We start in 6 steps. Direct on the left lane, open."}
+{"n":350,"kind":"place","name":"the Underpass north stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass north stair. Matt keeps the plywood for the start. 7 steps, direct on the left lane, open."}
+{"n":351,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north stair. direct left open. 8 steps. The plywood stays for the start."}
+{"n":352,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at the Underpass. Nobody past the north stair. We start in 2 steps. Direct on the left lane, open."}
