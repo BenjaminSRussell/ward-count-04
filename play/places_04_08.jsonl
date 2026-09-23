@@ -934,3 +934,6 @@
 {"n":934,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south stair. direct left open. 8 steps. The crate stays for the start."}
 {"n":935,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Clinic roof. Nobody past the south stair. We start in 2 steps. Direct on the left lane, open."}
 {"n":936,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof south stair. Ivo keeps the crate for the start. 3 steps, direct on the left lane, open."}
+{"n":937,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south stair. direct left open. 4 steps. The crate stays for the start."}
+{"n":938,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Clinic roof. Nobody past the south stair. We start in 5 steps. Direct on the left lane, open."}
+{"n":939,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof south stair. Bess keeps the crate for the start. 6 steps, direct on the left lane, open."}
