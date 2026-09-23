@@ -825,3 +825,6 @@
 {"n":825,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence east stair. Nia keeps the drum for the start. 7 steps, direct on the left lane, open."}
 {"n":826,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east stair. direct left open. 8 steps. The drum stays for the start."}
 {"n":827,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Stockyard fence. Nobody past the east stair. We start in 2 steps. Direct on the left lane, open."}
+{"n":828,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east stair. Ivo keeps the drum for the start. 3 steps, direct on the left lane, open."}
+{"n":829,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east stair. direct left open. 4 steps. The drum stays for the start."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Stockyard fence. Nobody past the east stair. We start in 5 steps. Direct on the left lane, open."}
